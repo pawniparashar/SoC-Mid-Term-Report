@@ -1,8 +1,11 @@
 # SoC Mid-Term Report
 
 **Name:** Pawni Parashar
+
 **Roll Number:** 25B2456
+
 **Project:** Univision - Workflow Based Agentic Computer Vision
+
 
 This repository contains my **Summer of Code (SoC) Mid-Term Report** for the **Univision - Workflow Based Agentic Computer Vision** project.
 
